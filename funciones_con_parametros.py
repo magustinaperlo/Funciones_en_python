@@ -1,3 +1,4 @@
+#dejo el visado de tus funciones con parametros Excelente !!
 #FUNCIONES CON PARAMETROS
 
 def suma():
