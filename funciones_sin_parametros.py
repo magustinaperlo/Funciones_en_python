@@ -1,3 +1,4 @@
+#excelente , sugerencia , cuando mostramos mensajes al usuario debemos cuidar la acentuación , nada más
 #FUNCIONES SIN PARAMETROS
 def saludos():
     print("Hola, como estas?")
